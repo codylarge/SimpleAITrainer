@@ -1,2 +1,1 @@
-# SimpleAITrainer
-Simple webapp to train an ai with a prompt
+Simple webapp to start learning Brain.js. "Guess" Represents the machines guess as to which text color is appropriate for the given background color. User can select a color to help train the machine 
